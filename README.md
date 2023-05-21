@@ -16,7 +16,7 @@ Apresentações que aconteceram durante o evento:
 
 * Azure & Plataformas Digitais: Estratégia de APIs - Murilo Beltrame (Arquiteto de Soluções, DEVPIRA)
 
-* O que é FinOps? Como economizar na nuvem sem precisar de um curso de Meteorologia! - Felipe Loureiro (Venturus)
+* O que é FinOps? Como economizar na nuvem sem precisar de um curso de Meteorologia! - Felipe KiKo (Arquiteto Cloud e Especialista FinOps)
 
 * Simplificando a o consumo de serviços do Azure em suas aplicações com os Service Connectors - Robson Rocha de Araújo (Microsoft MVP)
 
